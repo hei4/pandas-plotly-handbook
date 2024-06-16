@@ -58,7 +58,7 @@ Visual Studio Code以外の統合開発環境で実行される場合はご自�
   - 出典：[政府統計の総合窓口(e-Stat)](https://www.e-stat.go.jp/)
   - 「[社会・人口統計体系 都道府県データ 社会生活統計指標](https://www.e-stat.go.jp/dbview?sid=0000010201)」（e-Stat）を加工して使用
 - newly_confirmed_cases_daily.csv
-  - 出典：[データからわかる－新型コロナウイルス感染症情報－]()
+  - 出典：[データからわかる－新型コロナウイルス感染症情報－](https://covid19.mhlw.go.jp/)
   - 「[新規陽性者数の推移（日別）](https://covid19.mhlw.go.jp/public/opendata/newly_confirmed_cases_daily.csv)」（厚生労働省）を使用
 
 
